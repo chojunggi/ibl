@@ -1,0 +1,39 @@
+틀안에서
+
+ 자료의 구조를 바꿀수 있는거
+
+ @@@ 상속관계
+@@@ 중첩클래스
+스트링 "?
+
+
+
+@list리스트 타입 
+
+ 배열과 비슷
+
+ 중복 허용 순서가 존재
+
+@set
+순서가 없음 
+중복데이터를 제거 하기 위해서
+ 배열은 피타입 값이 들어가지만
+여기 배열 리스트 안에는 객체들 () 요소들이 있다
+
+@map
+
+
+ 객체형태로 존재하고 이름(키)를 선언해야 
+ 사용할수 없다
+  셋과 마찬가지로 순서가 없다
+중복이 되면 안된다
+키가
+
+
+CopyOnWriteArrayList,
+
+
+integer 
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=writer0713&logNo=220878850662
+
+
